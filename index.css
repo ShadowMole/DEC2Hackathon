@@ -1,0 +1,79 @@
+body {
+	background-color: rgb(220,220,220);
+	width: 98%;
+}
+
+header{
+	margin: 10px;
+	background-color: rgb(211,211,211);
+	border-bottom: double-line;
+}
+
+.projects{
+	float: right;
+}
+
+.info{
+	float: right;
+}
+
+.interest {
+	float: left;
+	width: 50%;
+}
+
+.skills {
+	float: right;
+	width: 50%;
+}
+
+.Header {
+	text-align: center;
+	color: rgb(25, 25, 112);
+}
+
+li {
+	height: 15px;
+	margin: 3px;
+}
+
+.contact li {
+	display: inline;
+	float: left;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.table{
+	display: table;
+	margin: 0 auto;
+}
+
+.top{
+	width: 98%;
+}
+
+.contact {
+	text-align: center;
+}
+
+.screenshots {
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+}
+
+.pic img {
+	display: inline;
+	width: 80%;	
+}
+
+.pic {
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.rpg {
+	clear: left;
+}
